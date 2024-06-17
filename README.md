@@ -7,3 +7,5 @@
 3. https://github.com/rustam-1108d/test-task-registration-form
 4. https://github.com/rustam-1108d/test-task-message-form
 5. https://github.com/rustam-1108d/test-task-todo-list
+6. https://github.com/rustam-1108d/test-task-window-company-page
+7. https://github.com/rustam-1108d/test-task-hexlet-banner-form
